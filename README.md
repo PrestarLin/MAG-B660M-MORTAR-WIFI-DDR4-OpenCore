@@ -15,17 +15,14 @@
 ### 硬件
 
 - 主板: MSI-MAG-B660M-MORTAR-WIFI-DDR4
-- Bios版本: Version: 7D42v1A（2023-01-11）
-- 处理器: 英特尔 i5-13400
-- 内存: 金百达 2x16GB DDR4 3600MHz
-- 硬盘: 1.致态 Ti7100Plus 1TB Windows
-- 硬盘: 2.西数 WD_BLACK SN770 1TB MacOS
-- 独显: 迪兰 RX5600XT 6GB 战神
+- Bios版本: Version: 7D42v1H（2024-03-27）
+- 处理器: 英特尔 i5-12490F
+- 内存: 酷兽 2x16GB DDR4 3200MHz
+- 硬盘: 1.致态 Ti7100Plus 1TB Windows and macos
+- 独显: asus rx580 2304sp
 - 声卡: 瑞昱 ALC256
 - 网卡: 瑞昱 8125
 - 无线: 英特尔 WIFI 6E AX211 160MHz
-- 显示器: 盛色 SANC G7c 2k 27寸 165hz
-- 电源: 酷冷至尊 GX650W 80Plus 金牌全模组
 - 机箱: 乔思伯 D31
 
 ### Bios 设置
